@@ -1,0 +1,15 @@
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.csproj.AssemblyReference.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.AssemblyInfoInputs.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.AssemblyInfo.cs
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.csproj.CoreCompileInputs.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\bin\Debug\net6.0\exs3_if_div2.exe
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\bin\Debug\net6.0\exs3_if_div2.deps.json
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\bin\Debug\net6.0\exs3_if_div2.runtimeconfig.json
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\bin\Debug\net6.0\exs3_if_div2.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\bin\Debug\net6.0\exs3_if_div2.pdb
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\refint\exs3_if_div2.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.pdb
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\exs3_if_div2.genruntimeconfig.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs3_if_div2\obj\Debug\net6.0\ref\exs3_if_div2.dll

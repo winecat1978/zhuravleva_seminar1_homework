@@ -1,0 +1,15 @@
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\bin\Debug\net6.0\exs4_from1ToN.exe
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\bin\Debug\net6.0\exs4_from1ToN.deps.json
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\bin\Debug\net6.0\exs4_from1ToN.runtimeconfig.json
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\bin\Debug\net6.0\exs4_from1ToN.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\bin\Debug\net6.0\exs4_from1ToN.pdb
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.csproj.AssemblyReference.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.AssemblyInfoInputs.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.AssemblyInfo.cs
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.csproj.CoreCompileInputs.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\refint\exs4_from1ToN.dll
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.pdb
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\exs4_from1ToN.genruntimeconfig.cache
+C:\Users\mob19\seminar1_homewrk_C#\exs4_from1ToN\obj\Debug\net6.0\ref\exs4_from1ToN.dll
